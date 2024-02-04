@@ -15,6 +15,7 @@
     "@types/figlet": "^1.5.8",
     "@types/flight": "^1.1.34",
     "@types/node": "^20.11.16",
+    "@types/pg": "^8.11.0",
     "nodemon": "^3.0.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
@@ -22,6 +23,7 @@
   "dependencies": {
     "commander": "^12.0.0",
     "figlet": "^1.7.0",
-    "flight": "^0.0.2"
+    "flight": "^0.0.2",
+    "pg": "^8.11.3"
   }
 }
